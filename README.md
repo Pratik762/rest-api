@@ -1,12 +1,12 @@
 # rest-api
 Create a simple RESTful API using a framework like Express.js (Node.js).
 
-Name : Pratik Mohite
-Comapany : CODTECH IT SOLUTIONS
-Intern Id : CT12DS1091
-Domain : Backend Interns 
-Duraion : 15 Jun 2024 to 15 Aug 2024
-Mentor : NEELA SANTOSH KUMAR
+Name : Pratik Mohite,
+Comapany : CODTECH IT SOLUTIONS,
+Intern Id : CT12DS1091,
+Domain : Backend Interns, 
+Duraion : 15 Jun 2024 to 15 Aug 2024,
+Mentor : NEELA SANTOSH KUMAR,
 
 Overview of the Internship Task 1(RESTFULL API)
 Create a simple RESTful API using a framework like Express.js (Node.js).
